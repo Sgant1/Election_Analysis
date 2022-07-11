@@ -1,6 +1,8 @@
 # Election_Analysis
 
 ## Project Overview
+
+- Background information:
 A Colorado Board of elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -9,6 +11,8 @@ A Colorado Board of elections employee has given you the following tasks to comp
 5. The winner of the election based on popular vote.
 
 ![image](https://user-images.githubusercontent.com/107363048/178186079-ba621f37-c348-4790-a1af-496ba94042bb.png)
+
+- The purpose of this review was to create a Python based code that would automatically calculate the 1 - 5 listed items above.
 
 
 ## Resources
