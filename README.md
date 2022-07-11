@@ -43,28 +43,7 @@ A Colorado Board of elections employee has given you the following tasks to comp
  - Diana DeGette won the election with 272,892 total votes which accounted for 74% of the total.
 
 
-## Summary
+## Election-Audit Summary
 
-The analysis of the election show that:
+The code built to calculate the total votes, counties, percentages, and candidates can be reused consistantly if new elections are run using a similar CSV format regardless of region or candidates. 
 
-
-There were 369,711 total votes: 
-
-
-Charles Casper Stockham: 23.0% (85,213)
-
-Diana DeGette: 73.8% (272,892)
-
-Raymon Anthony Doane: 3.1% (11,606)
-
-
-Winner: Diana DeGette
-
-Winning Vote Count: 272,892
-
-Winning Percentage: 73.8%
-
--------------------------
-## Challenge Overview
-
-## Challenge Summary
