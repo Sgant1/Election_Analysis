@@ -32,9 +32,15 @@ A Colorado Board of elections employee has given you the following tasks to comp
 
  - Denver county had the largest voter amount.
 
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+ - Charles Casper Stockham had 85,213 votes at 23% of the total.
+ - Diana DeGette had 272,892 votes at 74% of the total.
+ - Raymon Anthony Doane had 11,606 votes at 3# of the total.
+
+5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+ - Diana DeGette won the election with 272,892 total votes which accounted for 74% of the total.
 
 
 ## Summary
