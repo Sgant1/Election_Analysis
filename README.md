@@ -47,3 +47,10 @@ A Colorado Board of elections employee has given you the following tasks to comp
 
 The code built to calculate the total votes, counties, percentages, and candidates can be reused consistantly if new elections are run using a similar CSV format regardless of region or candidates. 
 
+1. State Additon Example
+
+- If additional columns are added to include states for a potentially larger election, simple if statements can be added into the code to account for the new columns added to calculate state combind totals.
+
+2. Candidate Votes By County Addition
+
+- A piece of useful information would be adding an additional line of code to account for each candidate vote total per county as this would give each candidate an idea of where time should be invested should another election come up.
