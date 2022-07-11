@@ -16,11 +16,11 @@ A Colorado Board of elections employee has given you the following tasks to comp
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Election-Audit Results:
--How many votes were cast in this congressional election?
+- How many votes were cast in this congressional election?
 
 There were 369,711 total votes total.
 
--Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 Jefferson: 10.5% (38,855)
 
